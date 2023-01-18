@@ -67,6 +67,17 @@ function chillHop() {
       id: uuidv4(),
       active: false,
     },
+
+    {
+      name: "Places",
+      cover:
+        "https://chillhop.com/wp-content/uploads/2021/07/034f52eeaeceb144cca67b0930d705d32fc39e37-1024x1024.jpg",
+      artist: "Ruck P",
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=20563",
+      color: ["#fcaf5d", "#644f78"],
+      id: uuidv4(),
+      active: false,
+    },
   ];
 }
 
